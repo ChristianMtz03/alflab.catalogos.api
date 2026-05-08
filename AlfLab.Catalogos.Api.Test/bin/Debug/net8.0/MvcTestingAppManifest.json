@@ -1,0 +1,7 @@
+{
+  "AlfLab.Catalogos.Api.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Proyectos\\alflab.catalogos.api\\AlfLab.Catalogos.Api.Application",
+  "AlfLab.Catalogos.Api, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Proyectos\\alflab.catalogos.api\\AlfLab.Catalogos.Api",
+  "AlfLab.Catalogos.Api.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Proyectos\\alflab.catalogos.api\\AlfLab.Catalogos.Api.Domain",
+  "AlfLab.Catalogos.Api.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Proyectos\\alflab.catalogos.api\\AlfLab.Catalogos.Api.Infrastructure",
+  "AlfLab.Catalogos.Api.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Proyectos\\alflab.catalogos.api\\AlfLab.Catalogos.Api.Presentation"
+}

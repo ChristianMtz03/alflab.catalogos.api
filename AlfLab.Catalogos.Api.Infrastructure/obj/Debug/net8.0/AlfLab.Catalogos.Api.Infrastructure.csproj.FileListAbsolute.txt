@@ -1,0 +1,17 @@
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\bin\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.deps.json
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\bin\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.dll
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\bin\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.pdb
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\bin\Debug\net8.0\AlfLab.Catalogos.Api.Application.dll
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\bin\Debug\net8.0\AlfLab.Catalogos.Api.Domain.dll
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\bin\Debug\net8.0\AlfLab.Catalogos.Api.Domain.pdb
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\bin\Debug\net8.0\AlfLab.Catalogos.Api.Application.pdb
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.csproj.AssemblyReference.cache
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.AssemblyInfoInputs.cache
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.AssemblyInfo.cs
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\AlfLab.C.78E1612F.Up2Date
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.dll
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\refint\AlfLab.Catalogos.Api.Infrastructure.dll
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\AlfLab.Catalogos.Api.Infrastructure.pdb
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Infrastructure\obj\Debug\net8.0\ref\AlfLab.Catalogos.Api.Infrastructure.dll

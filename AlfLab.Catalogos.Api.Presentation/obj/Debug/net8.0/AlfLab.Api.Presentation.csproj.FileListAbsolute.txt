@@ -1,0 +1,17 @@
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\bin\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.deps.json
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\bin\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.dll
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\bin\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.pdb
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\bin\Debug\net8.0\AlfLab.Catalogos.Api.Application.dll
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\bin\Debug\net8.0\AlfLab.Catalogos.Api.Domain.dll
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\bin\Debug\net8.0\AlfLab.Catalogos.Api.Application.pdb
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\bin\Debug\net8.0\AlfLab.Catalogos.Api.Domain.pdb
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.csproj.AssemblyReference.cache
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.AssemblyInfoInputs.cache
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.AssemblyInfo.cs
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.csproj.CoreCompileInputs.cache
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\AlfLab.A.A65720FE.Up2Date
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.dll
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\refint\AlfLab.Catalogos.Api.Presentation.dll
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\AlfLab.Catalogos.Api.Presentation.pdb
+C:\Proyectos\alflab.api\AlfLab.Catalogos.Api.Presentation\obj\Debug\net8.0\ref\AlfLab.Catalogos.Api.Presentation.dll

@@ -1,0 +1,11 @@
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\bin\Debug\net8.0\AlfLab.Catalogos.Api.Domain.deps.json
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\bin\Debug\net8.0\AlfLab.Catalogos.Api.Domain.dll
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\bin\Debug\net8.0\AlfLab.Catalogos.Api.Domain.pdb
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\obj\Debug\net8.0\AlfLab.Catalogos.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\obj\Debug\net8.0\AlfLab.Catalogos.Api.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\obj\Debug\net8.0\AlfLab.Catalogos.Api.Domain.AssemblyInfo.cs
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\obj\Debug\net8.0\AlfLab.Catalogos.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\obj\Debug\net8.0\AlfLab.Catalogos.Api.Domain.dll
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\obj\Debug\net8.0\refint\AlfLab.Catalogos.Api.Domain.dll
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\obj\Debug\net8.0\AlfLab.Catalogos.Api.Domain.pdb
+C:\Proyectos\alflab.catalogos.api\AlfLab.Catalogos.Api.Domain\obj\Debug\net8.0\ref\AlfLab.Catalogos.Api.Domain.dll
